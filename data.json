@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "/images/balsamic.webp",
+        "img": "images/balsamic.webp",
         "name": "balsamic",
         "price": 100,
         "count": 4,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "img": "/images/cabbageSalad.webp",
+        "img": "images/cabbageSalad.webp",
         "name": "cabbage",
         "price": 200,
         "count": 3,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "img": "/images/carrotSalad.webp",
+        "img": "images/carrotSalad.webp",
         "name": "carrot",
         "price": 300,
         "count": 5,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "img": "/images/crispy.webp",
+        "img": "images/crispy.webp",
         "name": "crispy",
         "price": 400,
         "count": 6,
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "img": "/images/garlicky.webp",
+        "img": "images/garlicky.webp",
         "name": "garlick",
         "price": 500,
         "count": 4,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "img": "/images/spinach.webp",
+        "img": "images/spinach.webp",
         "name": "spinach",
         "price": 600,
         "count": 3,
